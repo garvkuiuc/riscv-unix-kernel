@@ -1,4 +1,4 @@
-**RISC-V Unix-Style Kernel (LUMON OS)**
+### **RISC-V Unix-Style Kernel (LUMON OS)**
 
 A preemptive, multi-threaded Unix-style operating system kernel built for the RISC-V (Sv39) architecture. This project implements core OS abstractions from the hardware up, including demand-paged virtual memory, an asynchronous VirtIO storage stack, and a custom shell supporting I/O redirection and pipelines.
 
